@@ -1,3 +1,10 @@
+Django 1.4-Fork
+=============
+This is a special fork which fixes a few bugs if you are using  Django 1.4 (and I think one or two version of 1.5)
+https://github.com/wnh/dj-static/tree/feature/django-1.4-compat
+and
+https://github.com/kennethreitz/dj-static/pull/19 
+
 DJ-Static
 =========
 
